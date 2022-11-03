@@ -2,4 +2,4 @@
 Active Projects
 
 
-## [The Heron's Nest](https://www.theheronsnest.org/about)
+## [The Heron's Nest](https://github.com/Underground-Railroad/magnificent-projects/blob/main/heronsNest.md)
